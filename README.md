@@ -39,5 +39,5 @@ I focus on understanding the business context first, followed by thoughtful data
 modeling with clear assumptions, and communicating results in a way that supports decision-making.
 
 ## Connect with me
-- LinkedIn: https://www.linkedin.com/in/<your-link>
-- Email: <your-email>
+- LinkedIn: https://www.linkedin.com/in/sai-vishnu-katroju-5299441a4/
+- Email: saivishnukatroju@gmail.com
