@@ -1,47 +1,78 @@
 # Hi, I'm Vishnu 👋
 
-🎯 Data Scientist with 5+ years of applied industry experience in Machine Learning, Analytics, and Generative AI.
+🎯 Machine Learning Engineer with 5+ years of experience building production-scale predictive systems, intelligent data platforms, and end-to-end ML pipelines across enterprise environments.
 
-I design and build data-driven systems that turn complex datasets into reliable, actionable insights for real-world decision making.
-
----
-
-## 🚀 What I Work On
-- Designing end-to-end machine learning pipelines
-- Statistical analysis and experimentation
-- Python & SQL-based analytics for large-scale data
-- Applied Generative AI and LLM-driven workflows
-- Model evaluation and performance trade-off analysis
+I specialize in transforming complex, high-volume data into scalable machine learning solutions that improve forecasting, personalization, and operational decision-making.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Build
 
-**Languages & Core Tools**
-Python • SQL • Pandas • NumPy • Scikit-learn • XGBoost
+• End-to-end machine learning systems — from data ingestion to deployment  
+• Scalable data pipelines for structured and semi-structured data  
+• Time-series forecasting and deep learning models (LSTM, sequence models)  
+• Recommendation systems and customer behavior modeling  
+• Real-time and batch prediction services with production deployment  
+• Model monitoring, drift detection, and automated retraining workflows  
+• Experiment tracking and reproducible ML pipelines  
+• Data validation and quality assurance frameworks  
 
-**ML & Analytics**
-EDA • Feature Engineering • Model Training • Statistical Testing • Model Interpretation
+---
 
-**Cloud & Engineering**
-AWS (EC2, S3) • Docker • Git • Linux
+## 🧠 Industry Experience
+
+✔ Retail analytics and recommendation systems  
+✔ Demand forecasting and supply-chain optimization  
+✔ Customer segmentation and behavioral modeling  
+✔ Healthcare analytics and operational intelligence  
+✔ Marketing experimentation and A/B testing  
+
+---
+
+## 🛠 Technology Stack
+
+### Programming & Data
+Python • R • SQL • PySpark • Pandas • NumPy  
+
+### Machine Learning & AI
+Scikit-learn • TensorFlow • PyTorch • Keras • NLP • Transformers • Deep Learning  
+
+### Data Engineering & Big Data
+Spark • Hadoop • ETL Pipelines • Feature Engineering • Model Serving  
+
+### Cloud & MLOps
+AWS • GCP • Azure ML • Docker • CI/CD • Model Monitoring  
+
+### Visualization & Analytics
+Tableau • Power BI • Matplotlib • Seaborn  
 
 ---
 
 ## 📌 Focus Areas
-✔ Production-ready ML systems  
-✔ Business-driven analytics  
-✔ Interpretable and reliable models  
-✔ Applied AI for structured & unstructured data  
+
+✔ Production-ready ML infrastructure  
+✔ Large-scale data pipeline architecture  
+✔ Forecasting and predictive intelligence systems  
+✔ Model lifecycle management and reliability  
+✔ Scalable AI platforms for real-world deployment  
+
+---
+
+## 📊 Selected Work
+
+🔹 SmartPredict Forecasting System  
+Enterprise deep learning forecasting platform improving prediction accuracy across millions of time-series records.
+
+🔹 Predictive Intelligence Platform  
+Full-stack ML system integrating data ingestion, feature engineering, model training, deployment, and monitoring.
+
+🔹 Enterprise Retail ML Systems  
+Built recommendation engines, customer segmentation models, and real-time scoring pipelines for large-scale retail datasets.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: saivishnukatroju@gmail.com 
-💼 LinkedIn: [hww.linkedin.com/in/your-link  ttps://w](https://www.linkedin.com/in/sai-vishnu-katroju-5299441a4/)
-🌎 Location: Houston, Texas, United States
-
----
-
-_Repositories below reflect applied projects recreated for demonstration purposes._
+📧 Email: saivishnukatroju@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/your-link  
+🌎 Houston, Texas, United States
