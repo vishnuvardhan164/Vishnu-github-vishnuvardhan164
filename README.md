@@ -106,7 +106,7 @@ Specialization: Artificial Intelligence & Data Science
 saivishnukatroju@gmail.com  
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/your-link  ](https://www.linkedin.com/in/sai-vishnu-katroju-5299441a4/
+https://www.linkedin.com/in/sai-vishnu-katroju-5299441a4/
 
 🌎 **Location:**  
 Houston, Texas, United States
